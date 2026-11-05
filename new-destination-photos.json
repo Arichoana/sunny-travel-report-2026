@@ -1,0 +1,56 @@
+[
+  {
+    "key": "malta-room",
+    "url": "https://viu57.com/wp-content/uploads/2017/06/Diana_Iskander_Viu57_july_Version2-132-720x720.jpg",
+    "source": "https://viu57.com/",
+    "caption": "نمونه اتاق هتل ویو۵۷؛ منظره داخل نرخ تضمین نشده",
+    "local": "assets/new-malta-room.jpg",
+    "width": 720,
+    "height": 720
+  },
+  {
+    "key": "malta-pool",
+    "url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/308905518.jpg?hp=1&k=8e41afbb84e39bbf22f45fbb27c4fcce5be9e5827ef4eb357df48bd75cdd0d9d&o=",
+    "source": "https://www.booking.com/hotel/mt/viu57.en-gb.html",
+    "caption": "نمای استخر هتل ویو۵۷؛ باز یا گرم بودن استخر زمستانی تایید نشده",
+    "local": "assets/new-malta-pool.jpg",
+    "width": 576,
+    "height": 768
+  },
+  {
+    "key": "sicily-room",
+    "url": "https://res.cloudinary.com/amenitiz/image/upload/c_fill%2Cq_auto%3Abest%2Cw_1200/v1676451664/ipjgq3t9huukfkhxalty.jpg",
+    "source": "https://www.terrazzasantachiara.com/rooms",
+    "caption": "نمونه اتاق ترازا سانتا کیارا؛ تطبیق با اتاق نرخ تایید نشده",
+    "local": "assets/new-sicily-room.jpg",
+    "width": 1200,
+    "height": 860
+  },
+  {
+    "key": "sicily-terrace",
+    "url": "https://images.trvl-media.com/lodging/18000000/17820000/17817100/17817053/b31866d4.jpg?impolicy=resizecrop&ra=fill&rh=575&rw=575",
+    "source": "https://www.hotels.com/ho678209/terrazza-santa-chiara-catania-italy/",
+    "caption": "تراس اقامتگاه ترازا سانتا کیارا در کاتانیا",
+    "local": "assets/new-sicily-terrace.jpg",
+    "width": 862,
+    "height": 575
+  },
+  {
+    "key": "djerba-room",
+    "url": "https://www.eti.de/storage/185885/conversions/TU_DJE113_Golf_Beach_Djerba_Thalasso_Zimmer_1-web.JPG",
+    "source": "https://www.eti.de/hotel/hotel-golf-beach-spa/",
+    "caption": "نمونه اتاق گلف بیچ جربه؛ نوع و منظره اتاق داخل پکیج تضمین نشده",
+    "local": "assets/new-djerba-room.jpg",
+    "width": 2158,
+    "height": 1436
+  },
+  {
+    "key": "djerba-room2",
+    "url": "https://images.trvl-media.com/lodging/95000000/94850000/94842400/94842367/f194f465.jpg?h=800&impolicy=fcrop&quality=medium&w=1200",
+    "source": "https://pt.hoteis.com/ho3035955744/golf-beach-thalasso-familiy-couples-dixcove-gana/",
+    "caption": "نمونه دیگری از اتاق هتل گلف بیچ اند تالاسو، آغیر جربه",
+    "local": "assets/new-djerba-room2.jpg",
+    "width": 1200,
+    "height": 800
+  }
+]
