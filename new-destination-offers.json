@@ -1,5 +1,156 @@
 [
   {
+    "id": "malta-new",
+    "photo_group": "malta",
+    "country": "مالت",
+    "city": "ملیحه؛ شمال جزیره",
+    "hotel": "Hotel VIU57",
+    "hotel_fa": "هتل ویو۵۷",
+    "dates": [
+      "2026-12-05",
+      "2026-12-12"
+    ],
+    "dates_label": "۵ تا ۱۲ دسامبر ۲۰۲۶",
+    "nights": 7,
+    "full_days": 6,
+    "hotel_confirmed_total": 356,
+    "flight_two_seats_confirmed": false,
+    "all_requirements_confirmed": false,
+    "estimated_total": 984,
+    "total_label": "جمع برآوردی دو نفر",
+    "status_class": "over",
+    "status": "۱۸۴ یورو بالاتر از سقف",
+    "quote_state": "در ۶ نوامبر موجودی همان اتاق صبحانه‌دار هفت‌شبه ۳۵۶ یورو دوباره تایید شد؛ سه پیشنهاد پایین‌تر ناموجود بودند. جست‌وجوی پرواز برای دو بزرگسال ۲۹۸ یورو عادی و ۲۳۶ یورو مخصوص Prime نشان داد؛ تخفیف اشتراک در جمع استفاده نشده و قیمت نهایی بار هنوز معلوم نیست.",
+    "offer_url": "https://www.12-travel.de/hotels/reiseangebote/Italien%2C%20Malta/Malta/Mellieha%20Bay%20-%20Qasam%20Ta%C2%B4%20Santa%20Marija%20%28Ghadira%29/VIU57%20Hotel/?ad=2&ds=05.12.2026&df=12.12.2026&dr=8&dro=8&ml=3&gid=1839&hid=6705&hotel_search_origin=hotel_list",
+    "flights": [
+      {
+        "label": "رفت شنبه ۵ دسامبر",
+        "route": "DUS 06:45 → MLA 09:30 | EW9690",
+        "duration": "مستقیم؛ ۲ ساعت و ۴۵ دقیقه",
+        "fare_note": "نرخ عمومی هر نفر ۶۹٫۹۹ یورو؛ رفت بسیار زود است"
+      },
+      {
+        "label": "برگشت شنبه ۱۲ دسامبر",
+        "route": "MLA 10:15 → DUS 13:05 | EW9691",
+        "duration": "مستقیم؛ ۲ ساعت و ۵۰ دقیقه",
+        "fare_note": "نرخ عمومی هر نفر ۶۹٫۹۹ یورو؛ برگشت صبح مطابق ترجیح عصر شما نیست"
+      }
+    ],
+    "baggage": "بار در پاسخ جست‌وجوی پرواز مشخص نشده است؛ ۲۹۸ یورو را قیمت همراه چمدان کابین بزرگ یا بار تحویلی فرض نکن. قیمت نهایی بار و قوانین نرخ باید در مرحله جزئیات تایید شود.",
+    "flight_status": "هر دو پرواز مستقیم با همین تاریخ و ساعت در جست‌وجوی دو مسافر برگشتند؛ قیمت نهایی و بار تایید نشده. برگشت عصر با KM Malta نیز حدود ۳۹۶ یورو برای پرواز دو نفر دیده شد، یعنی ۹۸ یورو بیشتر؛ زیر سقف قرار نمی‌گیرد.",
+    "costs": [
+      {
+        "label": "اتاق دونفره و صبحانه؛ موجودی تایید شد",
+        "amount": 356
+      },
+      {
+        "label": "پرواز دو نفر؛ جست‌وجوی زنده eDreams بدون Prime، قیمت نهایی نشده",
+        "amount": 298
+      },
+      {
+        "label": "ذخیره غذا؛ دو نفر × روزی ۳۰ یورو × ۸ روز",
+        "amount": 240
+      },
+      {
+        "label": "دو کارت هفت‌روزه Explore Flex، هر نفر ۲۷ یورو",
+        "amount": 54
+      },
+      {
+        "label": "مالیات اقامت؛ ۱٫۵۰ × دو نفر × هفت شب",
+        "amount": 21
+      },
+      {
+        "label": "خانه تا فرودگاه و برگشت؛ فرض قبلی شما",
+        "amount": 15
+      }
+    ],
+    "cost_note": "غذا با ذخیره ۳۰ یورو در روز برای مجموع دو نفر محاسبه شده. با غذای بسیار محدودِ قبلی روزی ۲۰ یورو هم جمع ۹۰۴ یورو می‌شود. مالیات و حمل‌ونقل طبق منابع جاری‌اند؛ هزینه خانه تا فرودگاه فرض ۱۵ یورویی شماست. چمدان اضافه، تاکسی، تور و کشتی داخل جمع نیست. گزینه ۱۲ تا ۱۷ دسامبر هم بررسی شد: ارزان‌ترین پرواز برگشتی یک توقف داشت و دو نفر ۴۵۰ یورو بود، پس بهبود قابل اتکایی نبود.",
+    "notes": [
+      [
+        "اتاق و مزایا",
+        "اتاق دونفره با صبحانه؛ منظره دریا یا اتاق نشان‌داده‌شده در عکس داخل نرخ تضمین نشده است. بسیاری از مهمان‌ها اتاق را تمیز، موقعیت را خوش‌منظره و رفتار کارکنان را خوب توصیف کرده‌اند."
+      ],
+      [
+        "آرامش؛ نتیجه دوطرفه",
+        "بعضی مهمان‌ها از شب آرام گفته‌اند، اما در نظر مربوط به اقامت ژانویه ۲۰۲۶، صدای گرمایش، راهرو و کار ساختمانی اطراف گزارش شده است. اتاق دور از آسانسور و تاسیسات باید درخواست و تایید شود؛ سکوت قطعی نیست."
+      ],
+      [
+        "صبحانه و غذا",
+        "صبحانه داخل نرخ است. بازخوردها از خوب و کافی تا تنوع کم و تمام‌شدن بعضی خوراکی‌ها متفاوت‌اند. برای کیفیت غذایی ممتاز یا بوفه مفصل، انتخاب مطمئنی نیست."
+      ],
+      [
+        "معایب موقعیت",
+        "هتل روی شیب در ملیحه است؛ مرکز والتا نیست. برای گردش شهری زمان اتوبوس و سربالایی پیاده را در نظر بگیر. استخر فضای باز در زمستان ممکن است سرد باشد؛ گرم یا باز بودنش در این تاریخ تایید نشده است."
+      ],
+      [
+        "هوا",
+        "میانگین دسامبر حدود ۱۷ درجه در روز و نزدیک پنج ساعت آفتاب روزانه است؛ این عدد جمع ساعت آفتاب است، نه پنج روز صاف یا پیش‌بینی این هفت شب. باد و باران هم ممکن است."
+      ],
+      [
+        "کنسلی",
+        "کنسلی رایگان همین نرخ تایید نشده است. متن «Flex» روی صفحه پیشنهاد خرید افزونه جداست و به معنی رایگان بودن استرداد نرخ فعلی نیست."
+      ]
+    ],
+    "verdict": "از نظر مسیر کوتاه و سفر دونفره برای ادامه بررسی مناسب‌تر از جربه به نظر می‌رسد، ولی با سقف قطعی ۸۰۰ یورو قابل توصیه برای خرید نیست. صبحانه و آرامش هم بازخورد یکدست ندارند.",
+    "map_query": "Hotel VIU57, Mellieha, Malta",
+    "sources": [
+      {
+        "label": "نرخ تاریخ‌دار؛ موجودی تامین‌کننده دوباره بررسی شد",
+        "url": "https://www.12-travel.de/hotels/reiseangebote/Italien%2C%20Malta/Malta/Mellieha%20Bay%20-%20Qasam%20Ta%C2%B4%20Santa%20Marija%20%28Ghadira%29/VIU57%20Hotel/?ad=2&ds=05.12.2026&df=12.12.2026&dr=8&dro=8&ml=3&gid=1839&hid=6705&hotel_search_origin=hotel_list"
+      },
+      {
+        "label": "رفت؛ تقویم رسمی یورووینگز",
+        "url": "https://www.eurowings.com/de/buchen/angebote/fluege-ab/DE/DUS/nach/MT/MLA.html"
+      },
+      {
+        "label": "برگشت؛ تقویم رسمی یورووینگز",
+        "url": "https://www.eurowings.com/de/buchen/angebote/fluege-ab/MT/MLA/nach/DE/DUS.html"
+      },
+      {
+        "label": "برنامه رفت",
+        "url": "https://www.flight.info/EW9690"
+      },
+      {
+        "label": "برنامه برگشت",
+        "url": "https://www.flight.info/EW9691"
+      },
+      {
+        "label": "سایت رسمی هتل",
+        "url": "https://viu57.com/"
+      },
+      {
+        "label": "کیفیت صبحانه و سروصدا؛ نظرات ۲۰۲۶",
+        "url": "https://www.tripadvisor.com/Hotel_Review-g230152-d23674489-Reviews-Hotel_VIU57-Mellieha_Island_of_Malta.html"
+      },
+      {
+        "label": "کرایه رسمی حمل‌ونقل",
+        "url": "https://www.publictransport.com.mt/fares-and-tickets/"
+      },
+      {
+        "label": "مالیات اقامت؛ اداره مالیات مالت",
+        "url": "https://mtca.gov.mt/docs/default-source/documents/business-tax/eco/explanatory-notes-on-eco-act/explanatory-notes---2026-budget-changes---eco-act-%28en%29.pdf?sfvrsn=7bb97e4a_1"
+      },
+      {
+        "label": "میانگین هوای دسامبر",
+        "url": "https://www.beautifulmalta.com/malta-in-december/"
+      },
+      {
+        "label": "جست‌وجوی پرواز دو مسافر؛ بدون کسر Prime",
+        "url": "https://www.edreams.com/travel/?landingPageType=TEST_AB&locale=en&mktportal=ChatGPTApp&searchId=175283269242&searchMainProductTypeName=FLIGHT&testToken=20%23126594195016-6%2316445-12%2317546345511-5%2317646566188-22%2355777154665-19%2362019246081-13%23132071427572-18%2349587652529-7%2335697-8%2342741474803-2%231674-15%23128795645664-16%23131111457816-10%2337304942937-1%23527-17%23132513594200-9%23143371587471-3%23145360875577-21%2355904031241-14%2343729705775-11%23223249906309-4%23143930104659&testTokenDate=2026-11-06T11%3A04%3A54&utm_campaign=DUS-MLA&utm_content=meta-com&utm_medium=metasearch&utm_source=chatgpt-app&utm_term=flight&deeplink=/results/ret=2026-12-12;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=DUS;to.iata=MLA;dep=2026-12-05;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,EW9690&segmentKey1=0,EW9691&prime=true"
+      }
+    ],
+    "checked_on": "2026-11-06",
+    "slug": "malta-new",
+    "name": "هتل ویو۵۷",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20VIU57%2C%20Mellieha%2C%20Malta",
+    "embed_url": "https://maps.google.com/maps?q=Hotel%20VIU57%2C%20Mellieha%2C%20Malta&output=embed",
+    "checked_label": "۶ نوامبر ۲۰۲۶؛ نوبت ساعت ۱۱",
+    "previous_estimated_total": 885.96,
+    "comparison_rank_after_consultation": 1,
+    "consultation_received_at": "2026-11-06T11:16:04+01:00",
+    "recommend_purchase": false
+  },
+  {
     "id": "sicily-new",
     "photo_group": "sicily",
     "country": "ایتالیا",
@@ -153,155 +304,10 @@
     "map_url": "https://www.google.com/maps/search/?api=1&query=Terrazza%20Santa%20Chiara%20B%26B%2C%20Via%20Leonardi%203%2C%20Catania%2C%20Sicily%2C%20Italy",
     "embed_url": "https://maps.google.com/maps?q=Terrazza%20Santa%20Chiara%20B%26B%2C%20Via%20Leonardi%203%2C%20Catania%2C%20Sicily%2C%20Italy&output=embed",
     "checked_label": "۶ نوامبر ۲۰۲۶؛ نوبت ساعت ۱۱",
-    "previous_estimated_total": 799.96
-  },
-  {
-    "id": "malta-new",
-    "photo_group": "malta",
-    "country": "مالت",
-    "city": "ملیحه؛ شمال جزیره",
-    "hotel": "Hotel VIU57",
-    "hotel_fa": "هتل ویو۵۷",
-    "dates": [
-      "2026-12-05",
-      "2026-12-12"
-    ],
-    "dates_label": "۵ تا ۱۲ دسامبر ۲۰۲۶",
-    "nights": 7,
-    "full_days": 6,
-    "hotel_confirmed_total": 356,
-    "flight_two_seats_confirmed": false,
-    "all_requirements_confirmed": false,
-    "estimated_total": 984,
-    "total_label": "جمع برآوردی دو نفر",
-    "status_class": "over",
-    "status": "۱۸۴ یورو بالاتر از سقف",
-    "quote_state": "در ۶ نوامبر موجودی همان اتاق صبحانه‌دار هفت‌شبه ۳۵۶ یورو دوباره تایید شد؛ سه پیشنهاد پایین‌تر ناموجود بودند. جست‌وجوی پرواز برای دو بزرگسال ۲۹۸ یورو عادی و ۲۳۶ یورو مخصوص Prime نشان داد؛ تخفیف اشتراک در جمع استفاده نشده و قیمت نهایی بار هنوز معلوم نیست.",
-    "offer_url": "https://www.12-travel.de/hotels/reiseangebote/Italien%2C%20Malta/Malta/Mellieha%20Bay%20-%20Qasam%20Ta%C2%B4%20Santa%20Marija%20%28Ghadira%29/VIU57%20Hotel/?ad=2&ds=05.12.2026&df=12.12.2026&dr=8&dro=8&ml=3&gid=1839&hid=6705&hotel_search_origin=hotel_list",
-    "flights": [
-      {
-        "label": "رفت شنبه ۵ دسامبر",
-        "route": "DUS 06:45 → MLA 09:30 | EW9690",
-        "duration": "مستقیم؛ ۲ ساعت و ۴۵ دقیقه",
-        "fare_note": "نرخ عمومی هر نفر ۶۹٫۹۹ یورو؛ رفت بسیار زود است"
-      },
-      {
-        "label": "برگشت شنبه ۱۲ دسامبر",
-        "route": "MLA 10:15 → DUS 13:05 | EW9691",
-        "duration": "مستقیم؛ ۲ ساعت و ۵۰ دقیقه",
-        "fare_note": "نرخ عمومی هر نفر ۶۹٫۹۹ یورو؛ برگشت صبح مطابق ترجیح عصر شما نیست"
-      }
-    ],
-    "baggage": "بار در پاسخ جست‌وجوی پرواز مشخص نشده است؛ ۲۹۸ یورو را قیمت همراه چمدان کابین بزرگ یا بار تحویلی فرض نکن. قیمت نهایی بار و قوانین نرخ باید در مرحله جزئیات تایید شود.",
-    "flight_status": "هر دو پرواز مستقیم با همین تاریخ و ساعت در جست‌وجوی دو مسافر برگشتند؛ قیمت نهایی و بار تایید نشده. برگشت عصر با KM Malta نیز حدود ۳۹۶ یورو برای پرواز دو نفر دیده شد، یعنی ۹۸ یورو بیشتر؛ زیر سقف قرار نمی‌گیرد.",
-    "costs": [
-      {
-        "label": "اتاق دونفره و صبحانه؛ موجودی تایید شد",
-        "amount": 356
-      },
-      {
-        "label": "پرواز دو نفر؛ جست‌وجوی زنده eDreams بدون Prime، قیمت نهایی نشده",
-        "amount": 298
-      },
-      {
-        "label": "ذخیره غذا؛ دو نفر × روزی ۳۰ یورو × ۸ روز",
-        "amount": 240
-      },
-      {
-        "label": "دو کارت هفت‌روزه Explore Flex، هر نفر ۲۷ یورو",
-        "amount": 54
-      },
-      {
-        "label": "مالیات اقامت؛ ۱٫۵۰ × دو نفر × هفت شب",
-        "amount": 21
-      },
-      {
-        "label": "خانه تا فرودگاه و برگشت؛ فرض قبلی شما",
-        "amount": 15
-      }
-    ],
-    "cost_note": "غذا با ذخیره ۳۰ یورو در روز برای مجموع دو نفر محاسبه شده. با غذای بسیار محدودِ قبلی روزی ۲۰ یورو هم جمع ۹۰۴ یورو می‌شود. مالیات و حمل‌ونقل طبق منابع جاری‌اند؛ هزینه خانه تا فرودگاه فرض ۱۵ یورویی شماست. چمدان اضافه، تاکسی، تور و کشتی داخل جمع نیست. گزینه ۱۲ تا ۱۷ دسامبر هم بررسی شد: ارزان‌ترین پرواز برگشتی یک توقف داشت و دو نفر ۴۵۰ یورو بود، پس بهبود قابل اتکایی نبود.",
-    "notes": [
-      [
-        "اتاق و مزایا",
-        "اتاق دونفره با صبحانه؛ منظره دریا یا اتاق نشان‌داده‌شده در عکس داخل نرخ تضمین نشده است. بسیاری از مهمان‌ها اتاق را تمیز، موقعیت را خوش‌منظره و رفتار کارکنان را خوب توصیف کرده‌اند."
-      ],
-      [
-        "آرامش؛ نتیجه دوطرفه",
-        "بعضی مهمان‌ها از شب آرام گفته‌اند، اما در نظر مربوط به اقامت ژانویه ۲۰۲۶، صدای گرمایش، راهرو و کار ساختمانی اطراف گزارش شده است. اتاق دور از آسانسور و تاسیسات باید درخواست و تایید شود؛ سکوت قطعی نیست."
-      ],
-      [
-        "صبحانه و غذا",
-        "صبحانه داخل نرخ است. بازخوردها از خوب و کافی تا تنوع کم و تمام‌شدن بعضی خوراکی‌ها متفاوت‌اند. برای کیفیت غذایی ممتاز یا بوفه مفصل، انتخاب مطمئنی نیست."
-      ],
-      [
-        "معایب موقعیت",
-        "هتل روی شیب در ملیحه است؛ مرکز والتا نیست. برای گردش شهری زمان اتوبوس و سربالایی پیاده را در نظر بگیر. استخر فضای باز در زمستان ممکن است سرد باشد؛ گرم یا باز بودنش در این تاریخ تایید نشده است."
-      ],
-      [
-        "هوا",
-        "میانگین دسامبر حدود ۱۷ درجه در روز و نزدیک پنج ساعت آفتاب روزانه است؛ این عدد جمع ساعت آفتاب است، نه پنج روز صاف یا پیش‌بینی این هفت شب. باد و باران هم ممکن است."
-      ],
-      [
-        "کنسلی",
-        "کنسلی رایگان همین نرخ تایید نشده است. متن «Flex» روی صفحه پیشنهاد خرید افزونه جداست و به معنی رایگان بودن استرداد نرخ فعلی نیست."
-      ]
-    ],
-    "verdict": "از نظر مسیر کوتاه و سفر دونفره برای ادامه بررسی مناسب‌تر از جربه به نظر می‌رسد، ولی با سقف قطعی ۸۰۰ یورو قابل توصیه برای خرید نیست. صبحانه و آرامش هم بازخورد یکدست ندارند.",
-    "map_query": "Hotel VIU57, Mellieha, Malta",
-    "sources": [
-      {
-        "label": "نرخ تاریخ‌دار؛ موجودی تامین‌کننده دوباره بررسی شد",
-        "url": "https://www.12-travel.de/hotels/reiseangebote/Italien%2C%20Malta/Malta/Mellieha%20Bay%20-%20Qasam%20Ta%C2%B4%20Santa%20Marija%20%28Ghadira%29/VIU57%20Hotel/?ad=2&ds=05.12.2026&df=12.12.2026&dr=8&dro=8&ml=3&gid=1839&hid=6705&hotel_search_origin=hotel_list"
-      },
-      {
-        "label": "رفت؛ تقویم رسمی یورووینگز",
-        "url": "https://www.eurowings.com/de/buchen/angebote/fluege-ab/DE/DUS/nach/MT/MLA.html"
-      },
-      {
-        "label": "برگشت؛ تقویم رسمی یورووینگز",
-        "url": "https://www.eurowings.com/de/buchen/angebote/fluege-ab/MT/MLA/nach/DE/DUS.html"
-      },
-      {
-        "label": "برنامه رفت",
-        "url": "https://www.flight.info/EW9690"
-      },
-      {
-        "label": "برنامه برگشت",
-        "url": "https://www.flight.info/EW9691"
-      },
-      {
-        "label": "سایت رسمی هتل",
-        "url": "https://viu57.com/"
-      },
-      {
-        "label": "کیفیت صبحانه و سروصدا؛ نظرات ۲۰۲۶",
-        "url": "https://www.tripadvisor.com/Hotel_Review-g230152-d23674489-Reviews-Hotel_VIU57-Mellieha_Island_of_Malta.html"
-      },
-      {
-        "label": "کرایه رسمی حمل‌ونقل",
-        "url": "https://www.publictransport.com.mt/fares-and-tickets/"
-      },
-      {
-        "label": "مالیات اقامت؛ اداره مالیات مالت",
-        "url": "https://mtca.gov.mt/docs/default-source/documents/business-tax/eco/explanatory-notes-on-eco-act/explanatory-notes---2026-budget-changes---eco-act-%28en%29.pdf?sfvrsn=7bb97e4a_1"
-      },
-      {
-        "label": "میانگین هوای دسامبر",
-        "url": "https://www.beautifulmalta.com/malta-in-december/"
-      },
-      {
-        "label": "جست‌وجوی پرواز دو مسافر؛ بدون کسر Prime",
-        "url": "https://www.edreams.com/travel/?landingPageType=TEST_AB&locale=en&mktportal=ChatGPTApp&searchId=175283269242&searchMainProductTypeName=FLIGHT&testToken=20%23126594195016-6%2316445-12%2317546345511-5%2317646566188-22%2355777154665-19%2362019246081-13%23132071427572-18%2349587652529-7%2335697-8%2342741474803-2%231674-15%23128795645664-16%23131111457816-10%2337304942937-1%23527-17%23132513594200-9%23143371587471-3%23145360875577-21%2355904031241-14%2343729705775-11%23223249906309-4%23143930104659&testTokenDate=2026-11-06T11%3A04%3A54&utm_campaign=DUS-MLA&utm_content=meta-com&utm_medium=metasearch&utm_source=chatgpt-app&utm_term=flight&deeplink=/results/ret=2026-12-12;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=DUS;to.iata=MLA;dep=2026-12-05;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,EW9690&segmentKey1=0,EW9691&prime=true"
-      }
-    ],
-    "checked_on": "2026-11-06",
-    "slug": "malta-new",
-    "name": "هتل ویو۵۷",
-    "map_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20VIU57%2C%20Mellieha%2C%20Malta",
-    "embed_url": "https://maps.google.com/maps?q=Hotel%20VIU57%2C%20Mellieha%2C%20Malta&output=embed",
-    "checked_label": "۶ نوامبر ۲۰۲۶؛ نوبت ساعت ۱۱",
-    "previous_estimated_total": 885.96
+    "previous_estimated_total": 799.96,
+    "comparison_rank_after_consultation": 2,
+    "consultation_received_at": "2026-11-06T11:16:04+01:00",
+    "recommend_purchase": false
   },
   {
     "id": "djerba-new",
@@ -421,6 +427,9 @@
     "map_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Golf%20Beach%20%26%20Spa%2C%20Aghir%2C%20Djerba%2C%20Tunisia",
     "embed_url": "https://maps.google.com/maps?q=Hotel%20Golf%20Beach%20%26%20Spa%2C%20Aghir%2C%20Djerba%2C%20Tunisia&output=embed",
     "checked_label": "۶ نوامبر ۲۰۲۶؛ نوبت ساعت ۱۱",
-    "previous_estimated_total": 1117
+    "previous_estimated_total": 1117,
+    "comparison_rank_after_consultation": 3,
+    "consultation_received_at": "2026-11-06T11:16:04+01:00",
+    "recommend_purchase": false
   }
 ]
