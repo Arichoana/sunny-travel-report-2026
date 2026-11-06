@@ -16,28 +16,28 @@
     "hotel_confirmed_total": 356,
     "flight_two_seats_confirmed": false,
     "all_requirements_confirmed": false,
-    "estimated_total": 984,
+    "estimated_total": 984.0,
     "total_label": "جمع برآوردی دو نفر",
     "status_class": "over",
-    "status": "۱۸۴ یورو بالاتر از سقف",
-    "quote_state": "در ۶ نوامبر موجودی همان اتاق صبحانه‌دار هفت‌شبه ۳۵۶ یورو دوباره تایید شد؛ سه پیشنهاد پایین‌تر ناموجود بودند. جست‌وجوی پرواز برای دو بزرگسال ۲۹۸ یورو عادی و ۲۳۶ یورو مخصوص Prime نشان داد؛ تخفیف اشتراک در جمع استفاده نشده و قیمت نهایی بار هنوز معلوم نیست.",
+    "status": "184 یورو بالاتر از سقف؛ تایید کامل نشده",
+    "quote_state": "۶ نوامبر ۲۰۲۶؛ بازبینی کامل ساعت ۱۲:۲۰: اتاق دو نفر با صبحانه 356 یورو موجود بود. پرواز رفت‌وبرگشت دو بزرگسال در جست‌وجوی ای‌دریمز 298 یورو عادی نشان داده شد؛ قیمت نهایی همراه بار تایید نشده. قیمت پایه تغییر نکرد.",
     "offer_url": "https://www.12-travel.de/hotels/reiseangebote/Italien%2C%20Malta/Malta/Mellieha%20Bay%20-%20Qasam%20Ta%C2%B4%20Santa%20Marija%20%28Ghadira%29/VIU57%20Hotel/?ad=2&ds=05.12.2026&df=12.12.2026&dr=8&dro=8&ml=3&gid=1839&hid=6705&hotel_search_origin=hotel_list",
     "flights": [
       {
         "label": "رفت شنبه ۵ دسامبر",
         "route": "DUS 06:45 → MLA 09:30 | EW9690",
         "duration": "مستقیم؛ ۲ ساعت و ۴۵ دقیقه",
-        "fare_note": "نرخ عمومی هر نفر ۶۹٫۹۹ یورو؛ رفت بسیار زود است"
+        "fare_note": "برنامه و نرخ جست‌وجوی دو نفر در بازبینی دوباره دیده شد؛ سبد نهایی، بار اضافه و قوانین نرخ تایید نشده است"
       },
       {
         "label": "برگشت شنبه ۱۲ دسامبر",
         "route": "MLA 10:15 → DUS 13:05 | EW9691",
         "duration": "مستقیم؛ ۲ ساعت و ۵۰ دقیقه",
-        "fare_note": "نرخ عمومی هر نفر ۶۹٫۹۹ یورو؛ برگشت صبح مطابق ترجیح عصر شما نیست"
+        "fare_note": "برنامه و نرخ جست‌وجوی دو نفر در بازبینی دوباره دیده شد؛ سبد نهایی، بار اضافه و قوانین نرخ تایید نشده است"
       }
     ],
     "baggage": "بار در پاسخ جست‌وجوی پرواز مشخص نشده است؛ ۲۹۸ یورو را قیمت همراه چمدان کابین بزرگ یا بار تحویلی فرض نکن. قیمت نهایی بار و قوانین نرخ باید در مرحله جزئیات تایید شود.",
-    "flight_status": "هر دو پرواز مستقیم با همین تاریخ و ساعت در جست‌وجوی دو مسافر برگشتند؛ قیمت نهایی و بار تایید نشده. برگشت عصر با KM Malta نیز حدود ۳۹۶ یورو برای پرواز دو نفر دیده شد، یعنی ۹۸ یورو بیشتر؛ زیر سقف قرار نمی‌گیرد.",
+    "flight_status": "پروازهای مستقیم رفت ۰۶:۴۵ و برگشت ۱۰:۱۵ دوباره دیده شدند. برگشت مستقیم ساعت ۱۴:۵۵ با KM Malta، جمع پرواز دو نفر ۳۹۸ یورو و کل برآورد ۱۰۸۴ یورو است. رفت و برگشت عصر با KM Malta، پرواز دو نفر ۴۴۰ و کل ۱۱۲۶ یورو می‌شود. هر دو نتیجه جست‌وجوی نرخ عادی‌اند؛ بار نهایی نشده.",
     "costs": [
       {
         "label": "اتاق دونفره و صبحانه؛ موجودی تایید شد",
@@ -89,6 +89,10 @@
       [
         "کنسلی",
         "کنسلی رایگان همین نرخ تایید نشده است. متن «Flex» روی صفحه پیشنهاد خرید افزونه جداست و به معنی رایگان بودن استرداد نرخ فعلی نیست."
+      ],
+      [
+        "بازخوانی نظرهای ۲۰۲۶ در ۶ نوامبر",
+        "نظر اقامت سپتامبر ۲۰۲۶ از محیط آرام و منظره تعریف کرده و صبحانه را کم‌تنوع دانسته؛ گزارش‌های همان سال درباره صدای تاسیسات، راهرو و کار ساختمانی هم هست. بنابراین فضای روستا آرام‌تر از تضمین سکوت همان اتاق است."
       ]
     ],
     "verdict": "از نظر مسیر کوتاه و سفر دونفره برای ادامه بررسی مناسب‌تر از جربه به نظر می‌رسد، ولی با سقف قطعی ۸۰۰ یورو قابل توصیه برای خرید نیست. صبحانه و آرامش هم بازخورد یکدست ندارند.",
@@ -135,8 +139,12 @@
         "url": "https://www.beautifulmalta.com/malta-in-december/"
       },
       {
-        "label": "جست‌وجوی پرواز دو مسافر؛ بدون کسر Prime",
-        "url": "https://www.edreams.com/travel/?landingPageType=TEST_AB&locale=en&mktportal=ChatGPTApp&searchId=175283269242&searchMainProductTypeName=FLIGHT&testToken=20%23126594195016-6%2316445-12%2317546345511-5%2317646566188-22%2355777154665-19%2362019246081-13%23132071427572-18%2349587652529-7%2335697-8%2342741474803-2%231674-15%23128795645664-16%23131111457816-10%2337304942937-1%23527-17%23132513594200-9%23143371587471-3%23145360875577-21%2355904031241-14%2343729705775-11%23223249906309-4%23143930104659&testTokenDate=2026-11-06T11%3A04%3A54&utm_campaign=DUS-MLA&utm_content=meta-com&utm_medium=metasearch&utm_source=chatgpt-app&utm_term=flight&deeplink=/results/ret=2026-12-12;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=DUS;to.iata=MLA;dep=2026-12-05;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,EW9690&segmentKey1=0,EW9691&prime=true"
+        "label": "جست‌وجوی تازه دو بزرگسال؛ نرخ عادی بدون Prime",
+        "url": "https://www.edreams.com/travel/?landingPageType=TEST_AB&locale=en&mktportal=ChatGPTApp&searchId=175290367704&searchMainProductTypeName=FLIGHT&testToken=20%23126637727509-6%2313650-12%2327115585564-5%2324759189575-22%23133621152397-19%2362019246006-13%23145061317978-18%23111131988609-7%2381348-8%2342691271287-2%231566-15%2317546329701-16%23131054122825-10%2377949129662-1%231168-17%2371089558179-9%2312701331036-3%23128469440675-21%2355938698029-14%2317387621247-11%23130120611667-4%23144549208454&testTokenDate=2026-11-06T12%3A15%3A18&utm_campaign=DUS-MLA&utm_content=meta-com&utm_medium=metasearch&utm_source=chatgpt-app&utm_term=flight&deeplink=/results/ret=2026-12-12;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=DUS;to.iata=MLA;dep=2026-12-05;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,EW9690&segmentKey1=0,EW9691&prime=true"
+      },
+      {
+        "label": "نظرهای ۲۰۲۶؛ آرامش و صبحانه",
+        "url": "https://www.tripadvisor.co.uk/Hotel_Review-g230152-d23674489-Reviews-Hotel_VIU57-Mellieha_Island_of_Malta.html"
       }
     ],
     "checked_on": "2026-11-06",
@@ -144,11 +152,12 @@
     "name": "هتل ویو۵۷",
     "map_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20VIU57%2C%20Mellieha%2C%20Malta",
     "embed_url": "https://maps.google.com/maps?q=Hotel%20VIU57%2C%20Mellieha%2C%20Malta&output=embed",
-    "checked_label": "۶ نوامبر ۲۰۲۶؛ نوبت ساعت ۱۱",
-    "previous_estimated_total": 885.96,
+    "checked_label": "۶ نوامبر ۲۰۲۶؛ بازبینی کامل ساعت ۱۲:۲۰",
+    "previous_estimated_total": 984,
     "comparison_rank_after_consultation": 1,
     "consultation_received_at": "2026-11-06T11:16:04+01:00",
-    "recommend_purchase": false
+    "recommend_purchase": false,
+    "checked_at": "2026-11-06T12:15:20.467605+01:00"
   },
   {
     "id": "sicily-new",
@@ -167,24 +176,24 @@
     "hotel_confirmed_total": 391,
     "flight_two_seats_confirmed": false,
     "all_requirements_confirmed": false,
-    "estimated_total": 968,
+    "estimated_total": 968.0,
     "total_label": "جمع برآوردی با نرخ جست‌وجوی دو نفر",
     "status_class": "over",
-    "status": "۱۶۸ یورو بالاتر از سقف؛ آرامش مناسب نیست",
-    "quote_state": "در ۶ نوامبر موجودی اتاق دو نفر با صبحانه دوباره تایید شد: ۳۹۱ یورو. جست‌وجوی زنده پرواز برای دو بزرگسال، ۳۳۸ یورو بدون اشتراک Prime نشان داد؛ این نرخ هنوز سبد نهایی و بار تاییدشده نیست. قیمت تقویم مستقیم شرکت همچنان پایین‌تر است، اما صفحه خرید دو نفر خطا داد و آن قیمت تایید نشد.",
+    "status": "168 یورو بالاتر از سقف؛ تایید کامل نشده",
+    "quote_state": "۶ نوامبر ۲۰۲۶؛ بازبینی کامل ساعت ۱۲:۲۰: اتاق دو نفر با صبحانه 391 یورو موجود بود. پرواز رفت‌وبرگشت دو بزرگسال در جست‌وجوی ای‌دریمز 338 یورو عادی نشان داده شد؛ قیمت نهایی همراه بار تایید نشده. قیمت پایه تغییر نکرد.",
     "offer_url": "https://www.12-travel.de/hotels/reiseangebote/Italien%2C%20Malta/Sizilien/Catania/Terrazza%20Santa%20Chiara/?ad=2&ds=02.12.2026&df=07.12.2026&dr=6&dro=6&ml=3&st=1&gid=698362&hid=246540&hotel_search_origin=hotel_list&ci=",
     "flights": [
       {
         "label": "رفت چهارشنبه ۲ دسامبر",
         "route": "DUS 06:55 → CTA 09:35 | EW9814",
         "duration": "مستقیم؛ ۲ ساعت و ۴۰ دقیقه",
-        "fare_note": "تقویم شرکت: ۳۹٫۹۹ یورو هر نفر؛ قیمت نهایی دو نفر با همین نرخ تایید نشد؛ رفت زودتر از ترجیح شماست"
+        "fare_note": "برنامه و نرخ جست‌وجوی دو نفر در بازبینی دوباره دیده شد؛ سبد نهایی، بار اضافه و قوانین نرخ تایید نشده است"
       },
       {
         "label": "برگشت دوشنبه ۷ دسامبر",
         "route": "CTA 18:50 → DUS 21:30 | EW9815",
         "duration": "مستقیم؛ ۲ ساعت و ۴۰ دقیقه",
-        "fare_note": "تقویم شرکت: ۷۴٫۹۹ یورو هر نفر؛ برگشت عصر مناسب‌تر است؛ نرخ رفت‌وبرگشت زنده OTA برای دو نفر ۳۳۸ یورو بود"
+        "fare_note": "برنامه و نرخ جست‌وجوی دو نفر در بازبینی دوباره دیده شد؛ سبد نهایی، بار اضافه و قوانین نرخ تایید نشده است"
       }
     ],
     "baggage": "مقدار بار در پاسخ پرواز eDreams مشخص نشده؛ قیمت ۳۳۸ یورو را همراه چمدان کابین یا بار تحویلی حساب نکن. تقویم مستقیم BASIC فقط کیف زیر صندلی دارد و بار بیشتر اضافه است.",
@@ -294,8 +303,8 @@
         "url": "https://www.tripadvisor.it/Hotel_Review-g187888-d12195030-Reviews-Terrazza_Santa_Chiara-Catania_Province_of_Catania_Sicily.html"
       },
       {
-        "label": "پرواز دو نفر؛ جست‌وجوی eDreams، بدون کسر Prime",
-        "url": "https://www.edreams.com/travel/?landingPageType=TEST_AB&locale=en&mktportal=ChatGPTApp&searchId=175286553166&searchMainProductTypeName=FLIGHT&testToken=20%2355495709702-6%2344716-12%23129134916379-5%2317646566188-22%23133621152397-19%2359953758771-13%23129861127270-18%23284048511219-7%2344870-8%2341609422701-2%23321-15%23128795895214-16%23132648672083-10%23126244302548-1%234518-17%2370908041695-9%23133603743341-3%2311859-21%2360832434424-14%2368485776259-11%23130036597253-4%2366392&testTokenDate=2026-11-06T11%3A04%3A28&utm_campaign=DUS-CTA&utm_content=meta-com&utm_medium=metasearch&utm_source=chatgpt-app&utm_term=flight&deeplink=/results/ret=2026-12-07;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=DUS;to.iata=CTA;dep=2026-12-02;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,EW9814&segmentKey1=0,EW9815&prime=true"
+        "label": "جست‌وجوی تازه دو بزرگسال؛ نرخ عادی بدون Prime",
+        "url": "https://www.edreams.com/travel/?landingPageType=TEST_AB&locale=en&mktportal=ChatGPTApp&searchId=175296633132&searchMainProductTypeName=FLIGHT&testToken=20%2370349788924-6%2379165-12%2317546345511-5%234406023482-22%2355777658481-19%23133279940633-13%23133597719244-18%2345975134353-7%2344870-8%2342712830722-2%231169-15%2385594627058-16%2349990303500-10%235816495416-1%231168-17%2347107806855-9%23133663232965-3%23128564656944-21%2355938789559-14%23243662597359-11%2344322769303-4%2314383&testTokenDate=2026-11-06T12%3A15%3A17&utm_campaign=DUS-CTA&utm_content=meta-com&utm_medium=metasearch&utm_source=chatgpt-app&utm_term=flight&deeplink=/results/ret=2026-12-07;infants=0;children=0;adults=2;type=R;class=TOURIST;from.iata=DUS;to.iata=CTA;dep=2026-12-02;collectionmethod=16&fareItineraryKey=0&segmentKey0=0,EW9814&segmentKey1=0,EW9815&prime=true"
       }
     ],
     "checked_on": "2026-11-06",
@@ -303,11 +312,12 @@
     "name": "اقامتگاه ترازا سانتا کیارا",
     "map_url": "https://www.google.com/maps/search/?api=1&query=Terrazza%20Santa%20Chiara%20B%26B%2C%20Via%20Leonardi%203%2C%20Catania%2C%20Sicily%2C%20Italy",
     "embed_url": "https://maps.google.com/maps?q=Terrazza%20Santa%20Chiara%20B%26B%2C%20Via%20Leonardi%203%2C%20Catania%2C%20Sicily%2C%20Italy&output=embed",
-    "checked_label": "۶ نوامبر ۲۰۲۶؛ نوبت ساعت ۱۱",
-    "previous_estimated_total": 799.96,
+    "checked_label": "۶ نوامبر ۲۰۲۶؛ بازبینی کامل ساعت ۱۲:۲۰",
+    "previous_estimated_total": 968,
     "comparison_rank_after_consultation": 2,
     "consultation_received_at": "2026-11-06T11:16:04+01:00",
-    "recommend_purchase": false
+    "recommend_purchase": false,
+    "checked_at": "2026-11-06T12:15:23.735487+01:00"
   },
   {
     "id": "djerba-new",
@@ -323,14 +333,14 @@
     "dates_label": "۳۰ نوامبر تا ۵ دسامبر ۲۰۲۶",
     "nights": 5,
     "full_days": 4,
-    "package_confirmed_total": 953,
+    "package_confirmed_total": null,
     "flight_two_seats_confirmed": true,
     "all_requirements_confirmed": false,
-    "estimated_total": 1098,
+    "estimated_total": 1121.0,
     "total_label": "جمع برآوردی دو نفر",
     "status_class": "over",
-    "status": "بالاتر از بودجه؛ کیفیت هم قطعی نیست",
-    "quote_state": "در ۶ نوامبر موجودی پکیج پرواز و هتل برای دو نفر دوباره تایید شد: جمع نهایی پاسخ ۹۵۳ یورو بود؛ دیروز ۹۷۲ یورو. قیمت فهرست ۹۵۲ یورو را ملاک نگرفتم. پکیج All Inclusive، یک چمدان تحویلی ۲۵ کیلو برای هر نفر و بدون ترانسفر است.",
+    "status": "321 یورو بالاتر از سقف؛ تایید کامل نشده",
+    "quote_state": "۶ نوامبر ۲۰۲۶؛ بازبینی کامل ساعت ۱۲:۲۰: پکیج موجود است؛ تیتر جمع دو نفر ۹۷۵ یورو، اما برنامه پرداخت ۹۷۶ یورو نشان می‌دهد. در نوبت ساعت ۱۱ مبلغ ۹۵۳ یورو بود. به‌دلیل اختلاف داخلی، نرخ نهایی یکدست تایید نشده و برای جمع بودجه ۹۷۶ یورو لحاظ شده است. All Inclusive، بار تحویلی نفری ۲۵ کیلو و بدون ترانسفر دوباره دیده شد.",
     "offer_url": "https://www.12-travel.de/reiseangebote/Tunesien/Tunesien%20-%20Insel%20Djerba/Seguia%20Strand%20%7c%20Aghir%20Strand%20%28Insel%20Djerba%29/H%C3%B4tel%20Golf%20Beach%20&%20Spa/?ad=2&ap=DUS&ds=30.11.2026&df=18.12.2026&dr=6-8&dro=6-8&ml=6&gid=201559&hid=62873&hotel_search_origin=hotel_list",
     "flights": [
       {
@@ -350,8 +360,8 @@
     "flight_status": "برخلاف دو ترکیب دیگر، پرواز و هتل در یک پاسخ موجودی برای دو نفر تایید شدند؛ این پاسخ رزرو یا تثبیت قیمت نیست. چهار روز کامل مقصد: ۱ تا ۴ دسامبر.",
     "costs": [
       {
-        "label": "پکیج پرواز، هتل و All Inclusive؛ موجودی تایید شد",
-        "amount": 953
+        "label": "پکیج موجود؛ ذخیره بر اساس مبلغ بالاترِ پاسخ تامین‌کننده",
+        "amount": 976.0
       },
       {
         "label": "غذای داخل هتل؛ در All Inclusive حساب شده",
@@ -374,7 +384,7 @@
         "amount": 15
       }
     ],
-    "cost_note": "خود پکیج ۱۵۳ یورو از سقف ۸۰۰ بالاتر است. با ذخیره ترانسفر، مالیات، غذای مسیر و رفت‌وآمد خانه جمع حدود ۱۰۹۸ یورو می‌شود. این هزینه‌های جانبی تخمینی‌اند. قیمت‌گذاری نهایی مالیات و ترانسفر و بار کابین هنوز انجام نشده است.",
+    "cost_note": "پکیج از ۹۵۳ به تیتر ۹۷۵ / برنامه پرداخت ۹۷۶ یورو رسیده است؛ اختلاف یک یورو باید پیش از خرید رفع شود. جمع محافظه‌کارانه با ۵۰ یورو ترانسفر، ۴۰ مالیات، ۴۰ مخارج مسیر و ۱۵ رفت‌وبرگشت خانه، ۱۱۲۱ یورو است. هزینه‌های جانبی برآوردند و نرخ نهایی بار کابین تایید نشده.",
     "notes": [
       [
         "اتاق و مزایا",
@@ -399,6 +409,10 @@
       [
         "کنسلی",
         "کنسلی رایگان همین نرخ تایید نشده است. متن «Flex» روی صفحه پیشنهاد خرید افزونه جداست و به معنی رایگان بودن استرداد نرخ فعلی نیست."
+      ],
+      [
+        "بازخوانی نظرهای ۲۰۲۶ در ۶ نوامبر",
+        "نظرهای سپتامبر و اکتبر ۲۰۲۶ هم رضایت از غذا، ساحل و کارکنان دارند و هم شکایت از نظافت، ملحفه و هزینه‌های خارج از All Inclusive. سرگرمی شبانه تا حدود ۲۳ در یک تجربه اکتبر ذکر شده؛ برای اتاق آرام تضمینی نداریم."
       ]
     ],
     "verdict": "برای بودجه و حساسیت شما به کیفیت و آرامش، پیشنهاد خرید من نیست. دلیل حضورش در گزارش شفافیت نتیجه جست‌وجو و نشان‌دادن قیمت پکیج واقعاً موجود است؛ نه معرفی سفر زیر ۸۰۰ یورو.",
@@ -419,6 +433,10 @@
       {
         "label": "هوای دسامبر جربه",
         "url": "https://djerbaauthority.com/en/articles/djerba-in-december"
+      },
+      {
+        "label": "نظرهای واقعی سپتامبر و اکتبر ۲۰۲۶",
+        "url": "https://www.tripadvisor.com/Hotel_Review-g297948-d7952156-Reviews-Hotel_Golf_Beach_Spa-Midoun_Djerba_Island_Medenine_Governorate.html"
       }
     ],
     "checked_on": "2026-11-06",
@@ -426,10 +444,13 @@
     "name": "هتل گلف بیچ اند اسپا",
     "map_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Golf%20Beach%20%26%20Spa%2C%20Aghir%2C%20Djerba%2C%20Tunisia",
     "embed_url": "https://maps.google.com/maps?q=Hotel%20Golf%20Beach%20%26%20Spa%2C%20Aghir%2C%20Djerba%2C%20Tunisia&output=embed",
-    "checked_label": "۶ نوامبر ۲۰۲۶؛ نوبت ساعت ۱۱",
-    "previous_estimated_total": 1117,
+    "checked_label": "۶ نوامبر ۲۰۲۶؛ بازبینی کامل ساعت ۱۲:۲۰",
+    "previous_estimated_total": 1098,
     "comparison_rank_after_consultation": 3,
     "consultation_received_at": "2026-11-06T11:16:04+01:00",
-    "recommend_purchase": false
+    "recommend_purchase": false,
+    "checked_at": "2026-11-06T12:15:24.244142+01:00",
+    "package_displayed_total": 975,
+    "package_payment_schedule_total": 976.0
   }
 ]
