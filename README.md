@@ -21,3 +21,5 @@ No reservation, payment or passenger details were submitted.
 
 Photos are sample room/property images with attribution; a particular room is not guaranteed.
 Unknown Booking/CHECK24 credit and subscription discounts are not deducted.
+
+Later preference review on 6 November: chef choices among the already compared properties, furnished balcony versus balcony-or-terrace, paid hotel cancellation options, current two-adult Regular flight with 10kg cabin bags (EUR 221.92), seasonal local taxes, and explicit food/transfer buffers. Hotel cancellation does not refund the separately booked flights. No final all-in checkout is claimed.
